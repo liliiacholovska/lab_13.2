@@ -4,7 +4,7 @@
 #include "macros.h"
 #include "functions.h"
 
-#define N 5 // Визначили константу N
+#define N 5 
 
 void calculateExpressions(int x, int z) {
     if (z > 5 && z < 10) {
